@@ -138,8 +138,7 @@ a:hover, a:active, a:focus {
 #about,
 #gallery,
 #contact {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 350px;
   position: relative;
 }
 
